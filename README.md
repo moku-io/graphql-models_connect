@@ -44,6 +44,8 @@ module Types
 end
 ```
 
+The same methods are defined for interfaces.
+
 ## Version numbers
 
 GraphQL Models Connect loosely follows [Semantic Versioning](https://semver.org/), with a hard guarantee that breaking changes to the public API will always coincide with an increase to the `MAJOR` number.
